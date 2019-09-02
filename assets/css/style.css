@@ -96,6 +96,8 @@ h4 {
     margin-bottom: 40px;
 }
 
+#map {min-height: 360px;}
+
 /*--------------------------------------------Heading*/
 
 header {
